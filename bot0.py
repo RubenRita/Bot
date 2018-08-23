@@ -6,7 +6,7 @@ from dbhelper import DBHelper
 
 db = DBHelper()
 
-TOKEN = "699573028:AAHh1UU8ZxsWdGgNpH21EzCMPSyQrxHYrv0"
+TOKEN = 
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 
